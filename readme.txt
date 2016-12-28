@@ -1,4 +1,3 @@
-This is a dictionary for learning python and Git.
+This is a dictionary for learning programming.
 
-dev TEST
-
+Git. Python. TCL.
